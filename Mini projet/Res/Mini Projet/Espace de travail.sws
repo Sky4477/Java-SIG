@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{B676F741-7597-4FB9-B087-36F905C2325C}" Loaded="No" Name="Mini Projet" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="Mini Projet.prj"/>
+		<Model Expanded="Yes" ID="{B676F741-7597-4FB9-B087-36F905C2325C}" Name="Mini Projet" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="Mini Projet.prj"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
